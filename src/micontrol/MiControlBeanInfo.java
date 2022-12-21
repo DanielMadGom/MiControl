@@ -8,7 +8,7 @@ import java.beans.*;
 
 /**
  *
- * @author Usuario
+ * @author Daniel Madrid
  */
 public class MiControlBeanInfo extends SimpleBeanInfo {
 
